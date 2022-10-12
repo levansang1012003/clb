@@ -1,0 +1,41 @@
+h1{
+    color: gray;
+   font-size:medium;
+}
+h1{
+    color:white
+}
+P{
+    color: white;
+}
+.button{
+    color:greenyellow;
+    text-decoration: none;
+    border-radius: 20px;
+    height: 60px;
+    width: 150px;
+    background-color: gray;
+}
+
+button{
+    text-decoration: none;
+    border-radius: 20px;
+    height: 60px;
+    width: 150px;
+    background-color: green;
+    color:black
+
+
+  
+}
+body{
+    border-radius: 1px gray;
+  
+
+}
+label{
+
+}
+a{
+    color: greenyellow;
+}
